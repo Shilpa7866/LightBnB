@@ -75,9 +75,9 @@ Start browsing LightBnB.
 
 ## Technologies Used
 
-HTML
-CSS
-JavaScript
-Node.js
-Express.js
-PostgreSQL
+* HTML
+* CSS
+* JavaScript
+* Node.js
+* Express.js
+* PostgreSQL
