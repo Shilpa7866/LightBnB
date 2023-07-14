@@ -1,5 +1,7 @@
 # LightBnB
 
+LightBnB is an app that allows homeowners to rent out their properties, providing an alternative to hotels. With LightBnB, users can easily find and book vacation rentals, while homeowners can showcase their properties and manage reservations. It's a convenient platform that revolutionizes the way people travel, offering a personalized and affordable vacation experience.
+
 ## Project Structure
 
 ```
@@ -53,3 +55,29 @@
 * `routes` contains the router files which are responsible for any HTTP requests to `/users/something` or `/api/something`. 
 * `styles` contains all of the sass files. 
 * `server.js` is the entry point to the application. This connects the routes to the database.
+
+
+
+## Final Product
+!["Final Product Home Page"](https://github.com/Shilpa7866/LightBnB/blob/master/LightBnB_WebApp/public/images/Final_Product.pngg?raw=true)
+!["Create Listing"](https://github.com/Shilpa7866/LightBnB/blob/master/LightBnB_WebApp/public/images/Create_Listing.png?raw=true)
+
+ 
+
+## Getting Started
+
+Clone the repository:  https://github.com/Shilpa7866/LightBnB.git
+Open the project in your preferred code editor.
+Install dependencies using the npm install command.
+Start the web server using the npm run local command.
+Go to http://localhost:3000/ in your browser.
+Start browsing LightBnB.
+
+## Technologies Used
+
+HTML
+CSS
+JavaScript
+Node.js
+Express.js
+PostgreSQL
