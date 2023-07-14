@@ -59,7 +59,7 @@ LightBnB is an app that allows homeowners to rent out their properties, providin
 
 
 ## Final Product
-!["Final Product Home Page"](https://github.com/Shilpa7866/LightBnB/blob/master/LightBnB_WebApp/public/images/Final_Product.pngg?raw=true)
+!["Final Product Home Page"](https://github.com/Shilpa7866/LightBnB/blob/master/LightBnB_WebApp/public/images/Final_Product.png?raw=true)
 !["Create Listing"](https://github.com/Shilpa7866/LightBnB/blob/master/LightBnB_WebApp/public/images/Create_Listing.png?raw=true)
 
  
