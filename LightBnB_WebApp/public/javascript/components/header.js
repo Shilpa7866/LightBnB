@@ -47,7 +47,7 @@ $(() => {
 
   $("header").on("click", '.my_reservations_button', function() {
     propertyListings.clearListings();
-    getAllReservations()
+    getAllReservations(`owner_id=${currentUser.id}`, `10`)
       .then(function(json) {
         propertyListings.addProperties(json.reservations, true);
         views_manager.show('listings');
